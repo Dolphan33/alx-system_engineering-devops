@@ -1,2 +1,2 @@
 #!/bin/bash
-script that creates a directory
+mk dir /tmp/my_first_directory
