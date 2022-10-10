@@ -7,3 +7,5 @@ a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\
 a script that duplicates the last line
 a script that deletes all the regular files
 a script that displays the 10 newest files in the current directory
+a script that takes a list of words as input and prints only words that appear exactly once
+a script that takes a list of words as input and prints only words that appear exactly once 2
